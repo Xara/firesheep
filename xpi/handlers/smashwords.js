@@ -1,5 +1,5 @@
 // Authors:
-//   Ian Gallagher <crash@neg9.org>
+// Dustin Brewer <mannkind@gmail.com>
 register({
   name: 'Smashwords',
   url: 'http://www.smashwords.com',
